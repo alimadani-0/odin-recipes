@@ -7,7 +7,7 @@
 This website currently uses only HTML. All changes made will be committed (hopefully in a proper way).
 
 ### Checklist of Implementations
-- [ ] HTML
+- [X] HTML
 - [ ] CSS
 
 ### Reflection Section
