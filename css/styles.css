@@ -1,43 +1,43 @@
 body {
-    color: black;
+    background-color: rgb(152, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    color: rgb(92, 6, 46);
+}
+
+h1,
+h2 {
+    font-weight: 600;
 }
 
 h1 {
-    color: black;
+    color: rgb(150, 50, 97);
+    text-align: center;
 }
 
 h2 {
     color: black;
 }
 
-ul {
-    color: black;
-}
+ul {}
 
-ol {
-    color: black;
-}
+ol {}
 
-a {
-    color: black;
-}
+a {}
 
 img {
-    color: black;
+    height: auto;
+    width: 300px;
 }
 
-p {
-    color: black;
-}
+p {}
 
-.recipes {
-    color: black;
-}
+.recipes {}
 
-.ingredients {
-    color: black;
-}
+.ingredients {}
 
 .credits {
     color: black;
 }
+
+#title {}
