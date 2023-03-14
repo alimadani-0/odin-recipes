@@ -4,7 +4,7 @@
 
 ## Basic front-end website built as recommended by The Odin Project's Foundations Course.
 
-This website currently uses only HTML. All changes made will be committed (hopefully in a proper way).
+This website uses HTML and CSS only. A full breakdown of milestones can be visualized with the commit history.
 
 ### Checklist of Implementations
 - [X] HTML
