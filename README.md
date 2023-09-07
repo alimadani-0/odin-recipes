@@ -6,6 +6,8 @@
 
 This website uses HTML and CSS only. A full breakdown of milestones can be visualized with the commit history.
 
+Live Preview: [Click Here](https://alimadani-0.github.io/odin-recipes/)
+
 ### Checklist of Implementations
 - [X] HTML
 - [X] CSS
