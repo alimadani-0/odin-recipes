@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(152, 255, 255);
+    background-color: rgb(190, 255, 255);
     font-family: 'Courier New', Courier, monospace;
     font-weight: 100;
     color: rgb(92, 6, 46);
@@ -13,6 +13,10 @@ h2 {
 h1 {
     color: rgb(150, 50, 97);
     text-align: center;
+    padding: 16px;
+    margin: 0px;
+    margin-bottom: 24px;
+    border-bottom: 6px double black;
 }
 
 h2 {
@@ -32,12 +36,38 @@ img {
 
 p {}
 
-.recipes {}
+.recipes {
+    font-size: 24px;
+    list-style-type: none;
+    text-align: center;
+    padding: 12px 18px;
+    margin-top: -16px;
+}
 
 .ingredients {}
 
 .credits {
     color: black;
+}
+
+.index {
+    width: 50%;
+    margin: 5% auto;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 30px;
+}
+
+.recipes a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 40px;
+    margin: 10px 0px;
+    border-right: 2px dotted black;
+    border-top: 3px solid rgb(100, 100, 100);
+    border-left: 2px dotted black;
+    border-bottom: 3px solid rgb(100, 100, 100);
+    border-radius: 7px;
+    /* border: 2px dotted black; */
 }
 
 #title {}
